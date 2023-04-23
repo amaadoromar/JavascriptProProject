@@ -17,6 +17,6 @@ Mastering Javascript Essentials with the help of a project-based course named Be
 
 Course Certificate : https://www.coursera.org/account/accomplishments/verify/EPF2EDEDW2C5
 
-The code was wrote by following the advice of the instructor , I don't own the entire code.
+Part of the code was wrote by following the advice of the instructor , I don't own the entire code, code owned by Mr.Harrison Kong.
 
 Thanks to Coursera and the instructor for this opportunity.
